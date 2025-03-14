@@ -1,3 +1,4 @@
+![app_icon](https://github.com/user-attachments/assets/a80dcd08-bbc5-4d0e-9e4f-62cb554066dd)
 # RDEV-ExamBrowser-Rebuild-Pro Change Logs
 
 Modifikasi pada **RDEV-ExamBrowserMod** mencakup berbagai pembaruan dan peningkatan keamanan oleh karena itu RDEV-ExamBrowser-Rebuild di bangun untuk mengganti kan rdev bawaan playstore. Berikut adalah daftar perubahan yang telah dilakukan:
